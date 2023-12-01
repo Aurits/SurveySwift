@@ -42,7 +42,7 @@ npm run dev
 ````
 
 ## Documentation
-For detailed documentation on how to use SurveySwift, visit our Wiki.
+For detailed documentation on how to use SurveySwift, visit our Wiki(https://www.example.com/).
 
 ## Contributing
 We welcome contributions from the community! Follow the guidelines in CONTRIBUTING.md to get started.
