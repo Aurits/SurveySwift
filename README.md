@@ -48,10 +48,10 @@ For detailed documentation on how to use SurveySwift, [visit our Wiki](https://w
 We welcome contributions from the community! Follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
 ## License
-SurveySwift is open-source software licensed under the GNU General Public License (GPL) v3.
+SurveySwift is open-source software licensed under the [GNU General Public License (GPL) v3.](https://www.example.com/)
 
 ## Community
-Join our community on Discussions for support, feedback, and collaboration.
+Join our community on [Discussions](https://www.example.com/) for support, feedback, and collaboration.
 
 ## Additional Information
 Documentation: For detailed documentation on how to use SurveySwift, visit our Wiki.
