@@ -22,14 +22,21 @@ Follow these steps to set up SurveySwift on your local machine:
 git clone https://github.com/aurits/SurveySwift.git
 cd SurveySwift
 
+```
+```bash
+
 # Install Dependencies
 npm install
+
+
 
 # Start the Development Server
 npm run dev
 
 # Visit http://localhost:3000 in your browser.
 
+
+````
 
 Documentation
 For detailed documentation on how to use SurveySwift, visit our Wiki.
