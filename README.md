@@ -41,27 +41,23 @@ npm run dev
 
 ````
 
-Documentation
+## Documentation
 For detailed documentation on how to use SurveySwift, visit our Wiki.
 
-Contributing
+## Contributing
 We welcome contributions from the community! Follow the guidelines in CONTRIBUTING.md to get started.
 
-License
+## License
 SurveySwift is open-source software licensed under the GNU General Public License (GPL) v3.
 
-Community
+## Community
 Join our community on Discussions for support, feedback, and collaboration.
 
-Additional Information
+## Additional Information
 Documentation: For detailed documentation on how to use SurveySwift, visit our Wiki.
 Contributing: We welcome contributions from the community! Follow the guidelines in CONTRIBUTING.md to get started.
 License: SurveySwift is open-source software licensed under the GNU General Public License (GPL) v3.
 Community: Join our community on Discussions for support, feedback, and collaboration.
-kotlin
-Copy code
-
-Feel free to use this organized version in your README.
 
 
 
