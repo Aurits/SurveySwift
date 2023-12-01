@@ -31,25 +31,29 @@ npm run dev
 # Visit http://localhost:3000 in your browser.
 
 
-# Documentation
+Documentation
+For detailed documentation on how to use SurveySwift, visit our Wiki.
 
-For detailed documentation on how to use SurveySwift, visit our [Wiki](#).
+Contributing
+We welcome contributions from the community! Follow the guidelines in CONTRIBUTING.md to get started.
 
-# Contributing
+License
+SurveySwift is open-source software licensed under the GNU General Public License (GPL) v3.
 
-We welcome contributions from the community! Follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
+Community
+Join our community on Discussions for support, feedback, and collaboration.
 
-# License
+Additional Information
+Documentation: For detailed documentation on how to use SurveySwift, visit our Wiki.
+Contributing: We welcome contributions from the community! Follow the guidelines in CONTRIBUTING.md to get started.
+License: SurveySwift is open-source software licensed under the GNU General Public License (GPL) v3.
+Community: Join our community on Discussions for support, feedback, and collaboration.
+kotlin
+Copy code
 
-SurveySwift is open-source software licensed under the [GNU General Public License (GPL) v3](LICENSE).
+Feel free to use this organized version in your README.
 
-# Community
 
-Join our community on [Discussions](#) for support, feedback, and collaboration.
 
-## Additional Information
 
-- **Documentation:** For detailed documentation on how to use SurveySwift, visit our [Wiki](#).
-- **Contributing:** We welcome contributions from the community! Follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
-- **License:** SurveySwift is open-source software licensed under the [GNU General Public License (GPL) v3](LICENSE).
-- **Community:** Join our community on [Discussions](#) for support, feedback, and collaboration.
+
