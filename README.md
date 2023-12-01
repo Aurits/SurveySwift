@@ -33,7 +33,7 @@ npm run dev
 
 ## 📚 Documentation
 
-For detailed instructions on how to use SurveySwift, please [visit our Wiki].
+For detailed instructions on how to use SurveySwift, please [visit our Wiki](https://github.com/Aurits/SurveySwift/wiki).
 
 ## 🤝 Contributing
 
