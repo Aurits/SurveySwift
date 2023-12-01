@@ -19,7 +19,7 @@ Follow these steps to set up SurveySwift on your local machine:
 
 ```bash
 # Clone the Repository
-git clone https://github.com/your-username/SurveySwift.git
+git clone https://github.com/aurits/SurveySwift.git
 cd SurveySwift
 
 # Install Dependencies
@@ -29,3 +29,27 @@ npm install
 npm run dev
 
 # Visit http://localhost:3000 in your browser.
+
+
+# Documentation
+
+For detailed documentation on how to use SurveySwift, visit our [Wiki](#).
+
+# Contributing
+
+We welcome contributions from the community! Follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
+
+# License
+
+SurveySwift is open-source software licensed under the [GNU General Public License (GPL) v3](LICENSE).
+
+# Community
+
+Join our community on [Discussions](#) for support, feedback, and collaboration.
+
+## Additional Information
+
+- **Documentation:** For detailed documentation on how to use SurveySwift, visit our [Wiki](#).
+- **Contributing:** We welcome contributions from the community! Follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
+- **License:** SurveySwift is open-source software licensed under the [GNU General Public License (GPL) v3](LICENSE).
+- **Community:** Join our community on [Discussions](#) for support, feedback, and collaboration.
