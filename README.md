@@ -17,14 +17,15 @@ SurveySwift is an innovative data collection platform designed to streamline the
 
 Follow these steps to set up SurveySwift on your local machine:
 
-### Prerequisites
+```bash
+# Clone the Repository
+git clone https://github.com/your-username/SurveySwift.git
+cd SurveySwift
 
-- Node.js and npm installed.
-- Python and pip installed.
+# Install Dependencies
+npm install
 
-### Installation
+# Start the Development Server
+npm run dev
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/SurveySwift.git
-   cd SurveySwift
+# Visit http://localhost:3000 in your browser.
