@@ -28,6 +28,9 @@ cd SurveySwift
 # Install Dependencies
 npm install
 
+```
+
+```bash
 
 
 # Start the Development Server
